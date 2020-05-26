@@ -11,3 +11,5 @@ To create a simply yet effective Library Management System prototype (later soft
 
 # REQUIREMENTS
 • Computer/Laptop • Any IDE for creating the program (or prototype) (Used CodeBlocks) • Programming Language Used: C++
+
+
